@@ -52,6 +52,7 @@
   }
   .button:hover{
     transform: scale(1.1);
+    color: white;
   }
   .information{
     position: absolute;
@@ -193,6 +194,7 @@
 .button2:hover{
     background-color: transparent;
     border: 2px solid #F9A602;
+    color: white;
 }
 footer{
     position: relative;
